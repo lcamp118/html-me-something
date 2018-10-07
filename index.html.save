@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>check where this tag goes</title>
+</head>
+
+<body>
+    <div>
+        <h2>Zeus</h2>
+        <p>Hello! My name is Zeus and I am a 6 year old Rottweiler mix. My mom and dad adopted me from KC Pet Project.
+            I am their first rescue and let’s just say they loved me so much they just had to rescue even more
+            animals!!</p>
+        <p>Not only am I the oldest, I am the alpha dog. I hog all the toys, food, and attention. I am also the *BEST* guard dog
+                ever!! I bark or growl whenever I see anything, whether it is a squirrel or a kid walking down the street with their
+                family. No one sneaks up on my family!!</p>
+        <p>But don’t let that fool you! I only bark to see if you mean my family harm. In reality, I just love getting attention
+                from people!! And I love to give kisses!!</p>
+    </div>
+    <div>
+        <h2>Nala</h2>
+        <p>My name is Nala. I am a purebred German Shepherd girl that my parents also adopted from KC Pet Project. I didn’t have
+                the best start in life. When KC Pet Project found me I was living at a different “animal rescue” who didn’t quite
+                understand how to properly care for a large amount of animals. They often did not let me out of my kennel so I had no
+                choice but to go to the bathroom where I slept.</p>
+        <p>When my parents adopted me, they knew it would be a long hard road to getting me to my best self but they didn’t care.
+                They brought me home and started leash training me immediately. It was very weird to have a collar on with this leash
+                from it, but my dad really helped me learn how to walk on a leash. It took several months for me to understand how much
+                better it is NOT to go to the bathroom in my kennel.</p>
+        <p>I am now 5 years old and very happy!! I love my pet siblings!! We like to run around and wrestle outside. My favorite
+                thing is when my mom gives me an ice cube to chew on in the morning!!</p>
+    </div>
+    <div>
+        <h2>Snowflake</h2>
+        <p>Hi I am Snowflake! I am a White German Shepherd mix that my parents adopted from KCK Animal Control. When my parents
+                brought me home, I was very scared. My parents do not know much about my history because I was a stray but they think I
+                may have been abused as a puppy. I was very timid and wouldn’t come out from the corner. Also, I am terrified of brooms
+                to this day.</p>
+        <p>With lots of love and patience and help from my doggy siblings I have really come out of my shell. In fact, I love to
+                jump fences and several times my parents had to chase me and my doggy siblings down the street to bring us back home.
+                Once I learned that I need to stay within my yard, I started learning how to dig holes. My parents don’t like that
+                either. Otherwise, I am a quiet dog who rarely barks. I don’t give kisses like other dogs, instead, I like to jump up
+                and “kiss” by pressing my nose to my mom’s lips. We do this every morning!!</p>
+    </div>
+</body>
+</html>
